@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.10)
+project(21127662)
+find_package(OpenCV REQUIRED)
+add_executable(21127662 main.cpp)
+target_link_libraries(21127662 ${OpenCV_LIBS})

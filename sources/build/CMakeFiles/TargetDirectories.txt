@@ -1,0 +1,3 @@
+/Users/macintoshhd/Downloads/UNIVERSITY/TGMT/Lab03/21127662/sources/build/CMakeFiles/21127662.dir
+/Users/macintoshhd/Downloads/UNIVERSITY/TGMT/Lab03/21127662/sources/build/CMakeFiles/edit_cache.dir
+/Users/macintoshhd/Downloads/UNIVERSITY/TGMT/Lab03/21127662/sources/build/CMakeFiles/rebuild_cache.dir
